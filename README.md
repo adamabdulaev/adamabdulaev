@@ -1,6 +1,7 @@
 ## ✋Добро пожаловать в мой профиль! Меня зовут Адам, мне пока 28 лет и я frontend-разработчик.
 
 ## В работе использую следующий стек технологий и инструменты:
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 JavaScript **|** Angular **|** StencilJS **|** TypeScript **|** Angular SDK **|** React (небольшой опыт) **|** Git **|** HTML/CSS **|** Bootstrap **|** SCSS **|** Web Components **|** Tailwind **|** Ubuntu **|** GraphQL (небольшой опыт) **|** Figma **|** Avocode **|** Zepplin
 
 ## Мои проекты:
