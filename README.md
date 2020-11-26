@@ -7,8 +7,12 @@
 
 ## Мои проекты
 
+**Проект маркетплейс на Angular и StencilJS**<br />
+Веб-компоненты на StencilJS - [Код](https://github.com/almalib/s-market)<br />
+Бизнес-логика на Angular - [Код](https://github.com/almalib/ng-market) | [Демо](https://almalib.github.io/ng-market)<br />
+
 **Десктоп-чат на Angular и StencilJS**<br />
-View на StencilJS - [Код](https://github.com/almalib/stencil-chat)<br />
+Веб-компоненты на StencilJS - [Код](https://github.com/almalib/stencil-chat)<br />
 Бизнес-логика на Angular - [Код](https://github.com/almalib/ng-chat) | [Демо](https://almalib.github.io/ng-chat)<br />
 
 **Сайт-портфолио**<br />
