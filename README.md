@@ -21,6 +21,10 @@ Angular - [Код](https://github.com/almalib/ng-promo) | [Демо](https://alm
 
 **Приложение список дел на Angular** [Код](https://github.com/almalib/todo-list) | [Демо](https://almalib.github.io/todo-list)<br />
 
+**Тестовое задание для компании Аналитические программные решения**<br />
+Angular - [Код](https://github.com/almalib/crud-app) | [Демо](https://almalib.github.io/crud-app)<br />
+<br/>
+
 **Тестовое задание для компании Funbox**<br />
 Веб-компоненты на StencilJS - [Код](https://github.com/almalib/s-funbox)<br />
 Angular - [Код](https://github.com/almalib/ng-funbox) | [Демо](https://almalib.github.io/ng-funbox)<br />
