@@ -6,8 +6,8 @@
 </br>
 
 ## Некоторые мои работы
-**Тестовое задание для компании "Цифровые Привычки"**<br />
-Angular - [Код](https://github.com/almalib/ng-file-manager) | [Демо](https://almalib.github.io/ng-file-manager)<br />
+**Тестовое задание для компании "Цифровые Привычки" на Angular**<br />
+[Код](https://github.com/almalib/ng-file-manager) | [Демо](https://almalib.github.io/ng-file-manager)<br />
 
 **Проект маркетплейс на Angular и StencilJS**<br />
 Веб-компоненты на StencilJS - [Код](https://github.com/almalib/s-market)<br />
@@ -21,7 +21,8 @@ Angular - [Код](https://github.com/almalib/ng-file-manager) | [Демо](http
 Веб-компоненты на StencilJS - [Код](https://github.com/almalib/s-promo)<br />
 Angular - [Код](https://github.com/almalib/ng-promo) | [Демо](https://almalib.github.io/ng-promo)<br />
 
-**Приложение список дел на Angular** [Код](https://github.com/almalib/todo-list) | [Демо](https://almalib.github.io/todo-list)<br />
+**Приложение список дел на Angular**<br />
+[Код](https://github.com/almalib/todo-list) | [Демо](https://almalib.github.io/todo-list)<br />
 
 **Тестовое задание для компании Аналитические программные решения**<br />
 Angular - [Код](https://github.com/almalib/crud-app) | [Демо](https://almalib.github.io/crud-app)<br />
