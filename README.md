@@ -6,7 +6,7 @@
 </br>
 
 ## Некоторые мои работы
-**Тестовое задание для компании "Цифровые привычки"**<br />
+**Тестовое задание для компании "Цифровые Привычки"**<br />
 Angular - [Код](https://github.com/almalib/ng-file-manager) | [Демо](https://almalib.github.io/ng-file-manager)<br />
 
 **Проект маркетплейс на Angular и StencilJS**<br />
