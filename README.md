@@ -7,7 +7,7 @@
 
 ## Некоторые мои работы
 **Тестовое задание для компании "Цифровые Привычки" на Angular**<br />
-[Код](https://github.com/almalib/ng-file-manager) | [Демо](https://almalib.github.io/ng-file-manager)<br />
+[Код](https://github.com/almalib/ng-file-manager) <br />
 
 **Проект маркетплейс на Angular и StencilJS**<br />
 Веб-компоненты на StencilJS - [Код](https://github.com/almalib/s-market)<br />
